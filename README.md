@@ -28,11 +28,5 @@ npm start
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
-Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-Contato
-Para mais informações, entre em contato pelo e-mail: seu-email@exemplo.com
 
 
-Você pode personalizar este README.md conforme necessário para se adequar melhor ao seu projeto. Se precisar de mais alguma coisa, estou aqui para ajudar!
